@@ -1,0 +1,1 @@
+cd /d %~dp0 & java -cp ".;javax.mail-1.6.2.jar" EmailSender
